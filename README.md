@@ -126,4 +126,4 @@ The syntax is always the same, just set something in `:set_widgets()`.
 
 ### Screenshot
 
-[![Nicer](https://raw.github.com/Elv13/retrograde/master/screenshot/screenshot.png)](https://raw.github.com/Elv13/retrograde/master/screenshot/screenshot.png)
+[![Nicer](https://raw.githubusercontent.com/Elv13/retrograde/master/screenshot.png)](https://raw.githubusercontent.com/Elv13/retrograde/master/screenshot.png)
